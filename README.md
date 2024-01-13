@@ -6,7 +6,7 @@ maatify.dev post validator handler, known by our team
 # Installation
 
 ```shell
-composer require maatify/post-validator-v2
+composer require maatify/json-code
 ```
 
 ## Important
