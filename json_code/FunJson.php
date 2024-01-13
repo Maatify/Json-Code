@@ -1,10 +1,22 @@
 <?php
 
 /**
- * Created by Maatify.dev
- * User: Maatify.dev
- * Date: 2022-12-12
- * Time: 1:36 AM
+ * @copyright   ©2024 Maatify.dev
+ * @Liberary    Json-Code
+ * @Project     Json-Code
+ * @author      Mohamed Abdulalim (megyptm) <mohamed@maatify.dev>
+ * @since       2024-01-13 08:03 AM
+ * @see         https://www.maatify.dev Maatify.com
+ * @link        https://github.com/Maatify/Json-Code view project on GitHub
+ * @link        https://github.com/Maatify/Functions (maatify/functions)
+ * @link        https://github.com/Maatify/Logger (maatify/logger)
+ * @note        This Project using for Response Json wih error Code.
+ * @note        This Project extends other libraries maatify/logger, maatify/functions.
+ *
+ * @note        This program is distributed in the hope that it will be useful - WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+ * FITNESS FOR A PARTICULAR PURPOSE.
+ *
  */
 namespace Maatify\JsonCode;
 
