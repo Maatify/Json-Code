@@ -38,13 +38,6 @@ class MJC extends JsonGeneralResponse
         return self::$instance;
     }
 
-    protected static MJCVarCodes $json_var_codes;
-
-    public function __construct()
-    {
-        self::$json_var_codes = MJCVarCodes::obj();
-    }
-
     public static function Missing(
         string $varName,
         string $moreInfo = '',
@@ -168,7 +161,7 @@ class MJC extends JsonGeneralResponse
 
     private static function InputCode(string $varName): int
     {
-        if (! $code = self::$json_var_codes::Codes($varName)) {
+        if (! $code = MJCVarCodes::Codes($varName)) {
             $code = self::Codes($varName);
         }
 
