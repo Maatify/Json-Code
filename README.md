@@ -1,3 +1,12 @@
+[![Current version](https://img.shields.io/packagist/v/maatify/json-code)][pkg]
+[![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/maatify/json-code)][pkg]
+[![Monthly Downloads](https://img.shields.io/packagist/dm/maatify/json-code)][pkg-stats]
+[![Total Downloads](https://img.shields.io/packagist/dt/maatify/json-code)][pkg-stats]
+[![Stars](https://img.shields.io/packagist/stars/maatify/json-code)](https://github.com/maatify/json-code/stargazers)
+
+[pkg]: <https://packagist.org/packages/maatify/json-code>
+[pkg-stats]: <https://packagist.org/packages/maatify/json-code/stats>
+
 # Json-Code
 
 maatify.dev JSON Codes handler, known by our team
